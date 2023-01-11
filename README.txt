@@ -1,0 +1,1 @@
+This is GB-repository of Пётр Иванищев, course "Основы языка Python".
