@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+Homework_10
+    <list default="true" id="2f27ee04-b79d-40e1-b8a9-031a269f4448" name="Changes" comment="" />
+=======
     <list default="true" id="241b6250-6c1b-4564-8042-666693c397a9" name="Changes" comment="" />
+ main
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +27,11 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+Homework_10
+  <component name="ProjectId" id="2KVZtqJlLOrukIGJsMeU8A6IyEu" />
+=======
   <component name="ProjectId" id="2KC5YPSuJfgeJg4OOGCGVtvhgAp" />
+main
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,13 +39,27 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
+Homework_10
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+=======
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last.edited.regexp": "dfhdf@cfgfd.ru"
+ main
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+Homework_10
+      <changelist id="2f27ee04-b79d-40e1-b8a9-031a269f4448" name="Changes" comment="" />
+      <created>1674061949085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674061949085</updated>
+    </task>
+    <servers />
+  </component>
+=======
       <changelist id="241b6250-6c1b-4564-8042-666693c397a9" name="Changes" comment="" />
       <created>1673465770940</created>
       <option name="number" value="Default" />
@@ -57,4 +79,5 @@
       </map>
     </option>
   </component>
+ main
 </project>
